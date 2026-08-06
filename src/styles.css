@@ -77,7 +77,7 @@ main {
 
 @media (max-width: 500px) {
   .top-bar-inner {
-    min-height: 450px;
+    min-height: 500px;
     padding: 1.5rem 0.5rem;
     align-items: center;
   }
@@ -87,8 +87,8 @@ main {
   }
 
   .top-bar-image {
-    width: 120%;
-    margin-left: -10%;
+    width: 200%;
+    margin-left: -50%;
   }
 
   .top-bar-gallery {
